@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: rsundararajandocker/cicd:6
+      - image: rsundararajandocker/cicd:8
         name: flaskdemo
         resources: {}
 status: {}
